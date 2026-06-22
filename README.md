@@ -56,3 +56,4 @@ pytest
 - 작성자: 박윤준
 - 과목: Python 프로그래밍
 - 프로젝트: 기말 프로젝트 Python 패키지 만들기
+- GitHub URL: https://github.com/heugtokki951105-prog/text-analyzer
